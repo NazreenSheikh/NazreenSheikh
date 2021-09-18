@@ -15,7 +15,7 @@
 **Hi**, I'm Nazreen, Passionate Developer from INDIA.
 
 - 🔭 I’m currently working on **developing myself as an individual**.
-- 🌱 I’m currently learning **nextjs**.
+- 🌱 I’m currently learning **TypeScript**.
 - 👯 I’m looking to collaborate on **open source projects**.
 - 💬 Feel free to ask anything [here](mailto:nazreenshaikh0077@gmail.com)
 - ⚡ Fun fact: I'm an Engineer!
